@@ -8,8 +8,8 @@ import close from "../assets/close.svg";
 
 const navLinks = [
     {id:1, url:'/about',label:'About'},
-    {id:2, url:'/experience',label:'Experience'},
-    {id:3, url:'/skills',label:'Skills'},
+    {id:2, url:'/skills',label:'Skills'},
+    {id:3, url:'/experience',label:'Experience'},
     
   ];
 

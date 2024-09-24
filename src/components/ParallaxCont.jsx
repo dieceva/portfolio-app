@@ -58,7 +58,7 @@ const ParallaxCont = () => {
 		speed={0.5}
 		className="flex items-center justify-center"
 		>
-		<h1 className="flex align-center">My first Portfolio</h1>
+		<h1 className="flex align-center">Portfolio</h1>
 		</ParallaxLayer>
 		
 		<ParallaxLayer
